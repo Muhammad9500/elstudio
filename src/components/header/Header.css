@@ -1,0 +1,14 @@
+.header-container{
+    max-width: 767px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    color: white;
+    font-size: 110px;
+}
+.logo-container{
+    display: flex;
+    justify-content: center;
+}

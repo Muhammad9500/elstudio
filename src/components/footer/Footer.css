@@ -1,0 +1,42 @@
+.footer-container{
+    max-width: 767px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    padding: 30px;
+}
+
+.footer-line{
+    border-top: 1px solid white;
+    padding-top: 30px;
+
+}
+
+.footer_social-media{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.footer_social-media:not(:last-child){
+    margin-right: 30px;
+}
+
+.footer_content-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_social_media-container{
+    display: flex;
+
+}
+
+.footer-email{
+    font-size: 28px;
+    font-weight: 400;
+    display: flex;
+    justify-content: end;
+}

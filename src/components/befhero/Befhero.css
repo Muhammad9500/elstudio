@@ -1,0 +1,22 @@
+.befhero-container{
+    max-width: 767px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.befhero-title{
+    color: white;
+    font-size: 32px;
+    letter-spacing: 3px;
+    font-weight: 500;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.befhero-description{
+    color: rgb(172, 172, 172);
+    font-size: 22px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    margin: 0;
+}

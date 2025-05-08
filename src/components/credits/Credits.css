@@ -1,0 +1,34 @@
+.credits-container{
+    max-width: 767px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.credits_item-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.credits_item-container:not(:last-child){
+    margin-bottom: 30px;
+}
+
+.credits_item-title{
+    font-size: 26px;
+}
+
+.credits_item-title:not(:last-child){
+    margin-bottom: 10px;
+}
+
+.credits_item-name{
+    font-size: 36px;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
